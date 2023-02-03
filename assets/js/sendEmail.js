@@ -10,6 +10,7 @@ function sendMail(contactForm) {
         //for our promice
         function(response) {
             console.log('SUCCESS!', response.status, response.text);
+            alert("Thank you for your message! I'll be in touch shortly.");
         },
         function(error) {
             console.log('FAILED...', error);
