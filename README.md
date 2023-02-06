@@ -89,12 +89,12 @@ On this website I introduce myself to potential employers. The website was creat
     <img src="assets/images/screenshot-map2.png" alt="Map">
 
 
-### The Sport-Page
+### The Resume Page
 
-- __Choose a sport section__
+- __The Time-Beam section__
 
-  - The gallersectiony will provide the user with sport categories to choose. 
-  - This section is valuable to the user as they will be able to easily find the type of sport they want to train.
+  - My last three jobs are displayed here using a timeline and provided with time information.
+  - This section is valuable to the user as will be able to easily find the type of sport they want to train.
   - This section contains a dropdown menu that appears when the user mouses over an item. The elements following below are shifted down. The basic code has a similar structure to the drop-down menu in the header, but has been adapted to current needs.
   - The sports categories lead to specific sports via the drop-down menu. These are links and may be clicked in the future. Numerous coaches and sports clubs will then be displayed on the following web pages. Here the users must then also announce their location in order to narrow down the selection. Since there are many more sports and no real coaches are registered and numerous follow-up web pages would be necessary, the links lead to a specific sport example page. Because there are far too many sports and only three pages to create, there is only one sample page in this practice website. The other specific sport pages will be created in the future. 
 
