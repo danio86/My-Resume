@@ -50,7 +50,7 @@ function fetchGitHubInformation(event) {
     $("#gh-repo-data").html("");
 
     var username = $("#gh-username").val();
-    /* jQuery to get take thevalue of variable with id gh-username */
+    /* jQuery to get take the value of variable with id gh-username */
     if (!username) {
         $("#gh-user-data").html(`<h2>Please enter a GitHub username</h2>`);
         return;

@@ -84,74 +84,37 @@ On this website I introduce myself to potential employers. The website was creat
 __The Send us a message section__
 
   - The Contact page allows you to send me messages. I received this message as an email and will answer shortly. 
+  - The message is sent via email.js.
 
   - Contact
   <img src="assets/images/screenshot-contact.png" alt="Contact">
 
 
-### The Response Page
+### The Interests Page
 
-  - The Response Page contains the same header and footer as the other web pages. Additionally, there is a response section under the header. Here is the message that the request has been received and is being processed.
+  - On the interests page I present my private hobbies and use a Google map to show where my last professional locations are. 
+  - The map uses a Google API.
 
   - Response
   <img src="assets/images/screenshot-response.png" alt="Response">
 
 
-### The Login Page
+### The GitHub Page
 
-  - This page will allow the user to log in to coachfinder. If the user has not yet registered, he can do so here. No user can log in without having registered. After klicking the sign up button oder the login butten, without beeing registered, the user comes to the signup page.
+  - On the Github page you can see my Github repositories. Alternatively, you could also see repositories from other users.
+  - The query runs via the GitHub API
 
   - Login
   <img src="assets/images/screenshot-login.png" alt="Login">
 
 
-### The Sign Up Pages
+### The Download CV Pages
 
-  - There are two Sign Up pages with different headings. To the first one the user comes by clicking the Sign Up button, to the other page the user comes by trying to log in without being registered first. Other than that, both sides are the same. The user can register here. All fields are mandatory.
-  - A few lines of javascript were used for the repeat-password field. The basic code for this is taken from the following website.
-    - [Codepen](https://codepen.io/diegoleme/pen/qBpyvr)
+  - The Download CV page is not a page but another link to my downloadable CV.
 
   - Sign Up
   <img src="assets/images/screenshot-signup.png" alt="Sign Up">
 
-  - Sign Up-Mistake
-  <img src="assets/images/screenshot-signup-mistake.png" alt="Sign Up">
-
-
-### The Thank You Page
-
-  - The Thank You (thx) page contains a landing image with a message inside. In it, the company Coachfinder thanks the user for registering it. In the future, the user will now receive an email in which he must click a confirmation link. This will lead him to a Coachfinder profile page. In the future he can then set up his profile. This page will be created in the future.
-
-  - Thank You
-  <img src="assets/images/screenshot-thank-you.png" alt="Thank You">
-
-
-### The Sport Category Page
-
-  - The Sport Category page contains a landing image and a dropdown menu below. It is the same dropdown menu like the spors page. But only the sport category that the user clicked appears. Because there are far too many sports categories and only three pages to create, there is only one sample sports category page in this practice website. The other sports category pages will be created in the future.
-  - The dropdown menu contains links to a specific sport page. Because there are far too many sports and only three pages to create, there is only one sample page in this practice website. The other specific sport pages will be created in the future.
-
-  - Sport Category
-  <img src="assets/images/screenshot-sport-category.png" alt="Sport Category">
-
-
-### The Specific Sport Page 
-
-  - The Specific Sport Page contains a list of coaches to choose. 
-  - Here the user finds all the information he needs to decide on a trainer. This coach can then be contacted directly.
-  - In the future you will find here a selection selected by location. The location is taken from the profile but can be changed here temporarily (travel situation). There will also be the option of contacting the coach via a chat function.
-
-  - Specific Sport
-  <img src="assets/images/screenshot-specific-sport.png" alt="Specific Sport">
-
-### Features Left to Implement
-
-  - Planned features: 
-    - A Profile page. Here you will be able to set up your profile. This is particularly important for coaches and sports club owners who want to market themselves. 
-    - All sport category and all specific sports pages that can be selected from the main sports page. Here, as a user, you will select a coach who is nearby and use the link to further information about her/him.
-    - A chat function will be added to the specific sport page to contact the coach directly.
-    - A location selector will be added to the specific sport page.
-    - The map will show many destinations leading to the coaches' profiles.
 
 
 
@@ -216,9 +179,7 @@ __The Send us a message section__
 ### Unfixed Bugs
 
  - No Bugs are unfixed.
- - There were a few bugs, but they were fixed within a short time. 
-  - For example, the Sports category page displayed well in Firefox and not in Google Chrome. The image formatting caused free white areas to appear on the page in Google Chrome. 
-  - Another difficulty was the dropdown button (Sport) in the header menu. This had to be formatted separately, just like the other menu buttons.
+
 
 
 
@@ -232,6 +193,10 @@ __The Send us a message section__
   - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment. 
 
 The live link can be found [here](https://danio86.github.io/coach-finder/index.html)
+
+## Technologies
+
+The website was designed with HTML, CSS, Bootstrap and jQuery. JavaScript was used in the backend for the APIs and in connection with Email-JS.
 
 
 ## Credits 
