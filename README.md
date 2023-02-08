@@ -52,7 +52,7 @@ On this website I introduce myself to potential employers. The website was creat
 
   - The footer section includes links to the relevant social media sites. In this case it is just a "Linked In" link. The link will open to a new tab. 
   - The footer is the same on all web pages.
-  - The footer is valuable to the user as it encourages them to keep connected via social media
+  - The footer is valuable to the user as it encourages them to keep connected via social media.
   
 
   - Footer
@@ -61,19 +61,8 @@ On this website I introduce myself to potential employers. The website was creat
 
 ### The Homepage
 
-- __The Slide Show and Slogan section__
-
-#### The Slogan part
-
-  - The Slogan part is located on the left part of the section. It will allow the user to see the benefits of starting with sports and all excuses will be refuted. 
-  - This user will see the value of Coachfinder and coaches will see a chance to get clients. 
-
-#### The Slide Show
-
-  - The slide show is in the right part of the section. The images change from right to left. After the last picture, the slide show starts from the beginning. The images change automatically, but can also be changed manually.
-  - A few lines of javascript were used for the automatic image shift. The basic code of the slide show is taken from the following website, but has been modified.
-    - [Specific YouTube Tutorial](https://www.youtube.com/watch?v=0wvrlOyGlq0)
-  - The slide show will convey positive impressions about Coachfinder and motivate the user to use Coachfinder.
+  - My contact details will be communicated to interested parties on the "Home" page. I also share information about how I work here.
+  
 
 - Slogan and Slideshow
 <img src="assets/images/screenshot-slogan-slideshow.png" alt="Slogan-Slideshow">
