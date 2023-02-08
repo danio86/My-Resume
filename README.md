@@ -52,6 +52,7 @@ On this website I introduce myself to potential employers. The website was creat
 
   - The footer section includes links to the relevant social media sites. In this case it is just a "Linked In" link. The link will open to a new tab. 
   - The footer is the same on all web pages.
+  - A printable version of my CV is also available in the footer.
   - The footer is valuable to the user as it encourages them to keep connected via social media.
   
 
@@ -62,52 +63,27 @@ On this website I introduce myself to potential employers. The website was creat
 ### The Homepage
 
   - My contact details will be communicated to interested parties on the "Home" page. I also share information about how I work here.
-  
+
 
 - Slogan and Slideshow
 <img src="assets/images/screenshot-slogan-slideshow.png" alt="Slogan-Slideshow">
 
-  #### The Map section
-
-    - In this section the user can see exactly where a coach is available for the desired sport. So the map offers an alternative way to start training or to learn something new. The goal is achieved by clicking on a trainer instead of selecting a sport via the sports page.
-    - The View larger map - Link on the left leads to the real **_google maps_** map and the personal Websites of potential coaches.
-    - Since the website doesn't actually exist and no coaches are registered, only an example destination in Ireland appears. In the future, however, numerous trainers should be able to be found when scrolling and zooming through the **_google maps_** map. These can then be clicked on, which will take you to their Coachfinder profile. In this profile, the trainers will be able to advertise themselves.
-    - This section will be updated as new choaches sign in. 
-
-    - Map
-    <img src="assets/images/screenshot-map2.png" alt="Map">
+  
 
 
 ### The Resume Page
 
 - __The Time-Beam section__
 
-  - My last three jobs are displayed here using a timeline and provided with time information.
-  - This section is valuable to the user as will be able to easily find the type of sport they want to train.
-  - This section contains a dropdown menu that appears when the user mouses over an item. The elements following below are shifted down. The basic code has a similar structure to the drop-down menu in the header, but has been adapted to current needs.
-  - The sports categories lead to specific sports via the drop-down menu. These are links and may be clicked in the future. Numerous coaches and sports clubs will then be displayed on the following web pages. Here the users must then also announce their location in order to narrow down the selection. Since there are many more sports and no real coaches are registered and numerous follow-up web pages would be necessary, the links lead to a specific sport example page. Because there are far too many sports and only three pages to create, there is only one sample page in this practice website. The other specific sport pages will be created in the future. 
-
-
-  - Sport-Dropdown
-  <img src="assets/images/screenshot-sport-selector.png" alt="Sport-Dropdown">
-  - Sport-Dropdown-extended 
-  <img src="assets/images/screenshot-sport-selector2.png" alt="Sport-Dropdown">
-
-
-- __The Map section__
-
-  - Since this section is an alternative to the drop down menu above to find a trainer, the map here is the same as on the home page.
+  - My last three jobs are displayed here using a timeline and provided with time period information.
+  - Here I also give a self-assessment about my programming skills.
 
 
 ### The Contact-Page
 
 __The Send us a message section__
 
-  - This section will allow the user to send us (***coachfinder-company***) a message with feddback, questions, suggestions, and complaints.
-  - to submit the message, the has to type in an e-mail address. 
-  - If it were a real website, the only way the company could reply was like that. If the user wants to delete his message or e-mail address, the Clear Form button can be clicked.
-  - After sending the message, the user will receive confirmation that the message has arrived and is being processed. Since Coachfinder does not have a real server, the ***Code-Institute*** server was used as an example. Since no nice answer appears here, a *Receive Answer button* has been added. Clicking on this button demonstrates how feedback will look like in the future. If the company ever exists, this button will be deleted.
-  - The *Receive Answer button* leads to a **fourth web page (The Response Page)** that can only be reached here. 
+  - The Contact page allows you to send me messages. I received this message as an email and will answer shortly. 
 
   - Contact
   <img src="assets/images/screenshot-contact.png" alt="Contact">
