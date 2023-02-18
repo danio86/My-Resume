@@ -11,6 +11,7 @@ function sendMail(contactForm) {
         function(response) {
             console.log('SUCCESS!', response.status, response.text);
             alert("Thank you for your message! I'll be in touch shortly.");
+            location.reload();
         },
         function(error) {
             console.log('FAILED...', error);
