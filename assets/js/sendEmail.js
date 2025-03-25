@@ -1,8 +1,4 @@
 function sendMail(contactForm) {
-    console.log(contactForm);
-    console.log(contactForm.name.value);
-    console.log(contactForm.emailaddress.value);
-    console.log(contactForm.projectsummary.value);
     emailjs.send('service_tyh3gvl', 'daniel', {
         //serviceID, TemplateID from (emailJD)
         "from_name": contactForm.name.value,
@@ -18,6 +14,7 @@ function sendMail(contactForm) {
             location.reload();
         },
         function(error) {
+            alert("Sorry, something went wrong. Please try again later.");
             console.log('FAILED...', error);
         }
     );
