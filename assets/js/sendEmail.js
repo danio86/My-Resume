@@ -1,5 +1,9 @@
 function sendMail(contactForm) {
-    emailjs.send('service_tyh3gvl', 'rosie', {
+    console.log(contactForm);
+    console.log(contactForm.name.value);
+    console.log(contactForm.emailaddress.value);
+    console.log(contactForm.projectsummary.value);
+    emailjs.send('service_tyh3gvl', 'daniel', {
         //serviceID, TemplateID from (emailJD)
         "from_name": contactForm.name.value,
         "from_email": contactForm.emailaddress.value,
